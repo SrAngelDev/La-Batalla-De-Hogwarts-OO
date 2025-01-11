@@ -80,7 +80,7 @@ class SpellCaster(
     }
 
     /**
-     * Funcion para lanzar el hechizo de ataque.
+     * Funcion para lanzar el hechizo de ataque
      */
     private fun castSpell() {
         //logger.debug { "Lanzando hechizo" }
